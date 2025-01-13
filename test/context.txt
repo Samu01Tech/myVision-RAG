@@ -1,0 +1,347 @@
+Studio
+
+La laurea di primo livello in Informatica fornisce le conoscenze necessarie per accedere:
+
+* alla laurea magistrale in Computer Sciencee simili
+* alla laurea magistrale in Information Engineering e simili
+* alla laurea magistrale in Artificial Intelligence Systems e simili
+* alla laurea magistrale in Data Science e simili
+* alla laurea magistrale in Human-Computer Interaction
+* alla laurea magistrale in Quantitative and Computational Biology.
+
+È inoltre possibile, tramite scelta oculata del proprio piano di studio, accedere a lauree magistrali “affini” quali la laurea magistrale in Matematica, in Economia e Management
+
+
+
+
+
+
+
+
+
+Il corso prevede una articolazione in percorsi nei 3 anni, per un totale di 180 crediti.
+
+Dall'anno accademico 2024/2025 è offerto **in italiano** e **in inglese**, con due percorsi analoghi per contenuti e finalità, diversi solo per la lingua.  
+
+Nel percorso in italiano alcuni insegnamenti, in particolare quelli a scelta, si possono svolgere in inglese.
+
+Si può inoltre scegliere un piano di studio personalizzato che deve rispettare l’ordinamento e il regolamento didattico e deve essere approvato da una commissione.
+
+Questo corso è indicato sia per coloro che intendano proseguire gli studi con un corso di studio magistrale in materie informatiche o affini, sia per coloro che intendano concludere gli studi al termine del corso di laurea in Informatica.
+
+**Insegnamenti obbligatori**
+| Insegnamento | Crediti (CFU) |
+| --- | --- |
+| Analisi matematica 1 | 12 |
+| Geometria e algebra lineare | 6 |
+| Programmazione 1 | 12 |
+| Calcolatori | 6 |
+| Fondamenti matematici per l'informatica | 6 |
+| Probabilità e statistica | 6 |
+| Programmazione 2 | 6 |
+| Programmazione Funzionale | 6 |
+| Algoritmi e strutture dati | 12 |
+| Ingegneria del software | 12 |
+| Basi di dati | 6 |
+| Reti | 6 |
+| Sistemi operativi | 12 |
+| Logica computazionale | 6 |
+| Fisica | 6 |
+| Linguaggi formali e compilatori | 12 |
+| Introduction to machine learning | 6 |
+
+**12 crediti a scelta tra i seguenti insegnamenti**
+| Insegnamento | Crediti (CFU) |
+| --- | --- |
+| Introduzione alla programmazione per il Web | 6 |
+| Human Computer Interaction (in inglese) | 6 |
+| Reti logiche | 6 |
+| Fondamenti di elaborazione dei segnali | 6 |
+| Introduction to Computer and Network Security (in inglese) | 6 |
+| Sistemi informativi | 6 |
+| Programmazione avanzata | 6 |
+| Laboratorio di programmazione per sistemi mobili e tablet | 6 |
+| Optimization Techniques (in inglese) | 6 |
+| Analisi Matematica 2 | 6 |
+| Altri insegnamenti a scelta libera | 12 |
+
+**Altre attività obbligatorie**
+| Insegnamento | Crediti (CFU) |
+| --- | --- |
+| Tirocini formativi e di orientamento | 9 |
+| Inglese B1 | 3 |
+| Prova finale | 6 |
+
+
+
+
+
+
+
+
+
+Per iscriversi al corso è necessario avere un diploma di scuola secondaria o di altro titolo di studio conseguito all'estero riconosciuto idoneo.
+
+Il corso è a numero programmato: i posti sono assegnati in base a una selezione destinata a cittadini e cittadine italiani, cittadini e cittadine dei Paesi dell’Unione Europea, cittadini e cittadine non europei residenti al di fuori dell’Italia.
+
+
+
+
+Iscrizione anno accademico 2025/2026
+------------------------------------
+Livello: laurea di primo livello  
+
+Classe del corso: L9, Ingegneria Industriale  
+
+Lingua in cui si tiene il corso: Italiano  
+
+Modalità di accesso: accesso a numero programmato, con superamento di una prova di ammissione  
+
+Sede: Dipartimento di Ingegneria Industriale, Via Sommarive, 9 - 38123 Povo, Trento
+
+L’accesso alla laurea in Ingegneria industriale è a numero programmato: per iscriverti al corso devi superare una prova di ammissione, che puoi svolgere indipendentemente dalla scuola superiore che hai frequentato.
+
+Le informazioni sull’ammissione di ogni anno accademico e su come prepararsi al test  sono pubblicate alla pagina Iscriversi.
+
+Struttura del corso
+-------------------
+
+Nel 1° anno è previsto un programma comune dove si approfondiscono gli insegnamenti di base: matematica, chimica, fisica, informatica
+
+Dal 2° anno si introduce lo studio di discipline caratterizzanti (materiali, metallurgia, meccanica, elettronica, programmazione) e a partire dal secondo semestre puoi scegliere un settore dell’ingegneria industriale approfondire in base ai tuoi interessi e perfezionare durante il 3° anno.
+
+Puoi scegliere fra 3 curricula innovativi, pensati per preparare laureati per le richieste del mercato del lavoro di un settore in continua evoluzione.
+
+1. Materiali per l’industria sostenibile: approfondisce lo studio dei materiali tradizionali e di quelli innovativi, del ciclo di vita dei prodotti, delle tecnologie di trasformazione e dei processi di produzione nell’ottica della sostenibilità. Fornisce competenze di base dell'ingegneria dell’informazione per far comprendere le potenzialità offerte dalle tecnologie informatiche e il loro impatto nelle realtà produttive.
+2. Robotica e Meccatronica: è finalizzato alla formazione di ingegneri orientati all’industria manifatturiera di nuova generazione. Si sofferma sullo studio di sottosistemi di differente natura, come quelli di tipo meccanico, elettrico, elettronico e informatico, arrivando a toccare le principali specificità dell’ingegneria dell’informazione. Particolare enfasi è data ai sistemi meccatronici, alla robotica e alle macchine intelligenti.
+3. Gestionale: fornisce le conoscenze di base utili agli ingegneri industriali per interpretare le sfide dell’organizzazione e della gestione aziendale proprie degli impianti produttivi di ultima generazione. La preparazione verte principalmente sulle tecniche e le tecnologie di gestione e sul controllo degli impianti industriali complessi, con uno sguardo rivolto all’evoluzione del futuro.
+
+Per i contenuti e la struttura dei 3 curricula vai alla pagina Cosa si studia.
+
+Cosa puoi fare dopo la laurea triennale
+---------------------------------------
+
+La laurea triennale ti fornisce la preparazione ideale per proseguire la tua formazione scegliendo uno dei tre corsi di laurea magistrale proposti dal Dipartimento
+
+* Materials Engineering
+* Mechatronics Engineering
+* Management and Industrial Systems Engineering
+
+o quelli proposti da altri atenei, per specializzarti in un settore specifico dell’ingegneria industriale. Vedrai così accrescere le tue possibilità di lavorare in contesti diversi, quali aziende, start up, centri di ricerca ed enti pubblici, a livello nazionale e internazionale.
+
+Ti potrai occupare di aspetti come
+
+* progettazione
+* produzione
+* controllo qualità
+* assistenza tecnico-commerciale
+* sviluppo e ricerca
+* organizzazione e gestione
+
+e potrai veder evolvere la tua carriera passando da un profilo tecnico a uno manageriale.
+di comunità e formativa | 4 |
+| Corsi a scelta | L’attività non è suddivisa in moduli | 6 |
+| Attività preparatoria alla tesi | L’attività non è suddivisa in moduli | 3 |
+| Discussione della dissertazione | L’attività non è suddivisa in moduli | 2 |
+
+
+
+
+
+
+
+
+
+Per l’ammissione al corso di studio è richiesto un diploma di scuola secondaria di secondo grado o altro titolo di studio conseguito all'estero e idoneo.
+
+L'accesso al corso di studio è a **numero programmato a livello nazionale**: ogni anno viene emanata un decreto che stabilisce i contenuti del bando di ammissione emesso dall’Ateneo, la data e le modalità di svolgimento della prova di ammissione nazionale.
+
+L'accesso al corso di laurea è a numero programmato a livello nazionale, ai sensi della Legge 264/1999. Il numero di posti per l'ammissione, le modalità e il contenuto della prova vengono stabiliti ogni anno con un decreto Ministero dell’Università e della Ricerca (MUR).  
+
+Le conoscenze richieste per l'accesso al corso di laurea in Educazione Professionale sono definite dalle materie previste per la prova scritta nazionale di ammissione: biologia, chimica, fisica e matematica, conoscenze di cultura generale e ragionamento logico. Agli studenti e alle studentesse ammessi al corso che non raggiungano un prefissato livello di preparazione iniziale, qualora ammessi al corso saranno assegnati obblighi formativi aggiuntivi (OFA), da soddisfare entro il primo anno di corso, attraverso iniziative specifiche deliberate dagli organi competenti.
+
+Ammissione a.a. 2024/2025
+-------------------------
+
+La prova di ammissione si svolge il **5 settembre 2024****.**
+
+Non appena definite, le informazioni su scadenze e modalità di iscrizione alla prova di ammissione sono pubblicate alla pagina Ammissione laurea in Educazione Professionale 2024/2025.
+
+
+
+
+
+Passaggi di corso, trasferimenti e riconoscimento crediti
+---------------------------------------------------------
+
+I candidati e le candidate che chiedono di iscriversi al corso con:
+
+* un passaggio di corso
+* un trasferimento da un altro Ateneo
+* il riconoscimento crediti da carriere chiuse per laurea, decadenza, rinuncia agli studi o da corsi singoli
+
+devono presentare la domanda per l'ammissione ad anni successivi secondo le modalità ed entro le scadenze indicate alla pagina Passaggio di corso, trasferimento e riconoscimento crediti per la laurea in Educazione professionale 2023/2024.
+Studi dopo la laurea
+
+La laurea in Viticoltura ed Enologia è una **laurea professionalizzante** e pertanto permette di entrare direttamente nel mondo del lavoro.
+
+È altresì possibile **proseguire gli studi** iscrivendosi a **Lauree magistrali** che richiedano come requisiti di ammissione il diploma di laurea triennale CL-25, con necessità di integrazione di specifici CFU se l’ambito si discostasse da quello vitivinicolo.
+
+Il laureato potrà anche iscriversi a **master di primo livello** o **executive master**.
+
+Successive **specializzazioni** si possono acquisire con **stage**, frequenza presso **laboratori** di Enti di ricerca e/o Università.
+
+Il laureato in Viticoltura ed Enologia potrà trovare occupazione e crescita professionale anche nel **settore della ricerca e dello sviluppo** di aziende specializzate nella produzione di coadiuvanti e prodotti per l’industria enologica, di macchinari e tecnologie per la vitivinicoltura, nonché nell’industria enologica stessa.
+
+
+
+
+
+
+
+
+Link utili 
+Tasse universitarie
+Borse di studio e agevolazioni
+
+
+
+La struttura didattica del Corso di laurea in Viticoltura ed Enologia è elaborata sulla base delle linee guida proposte dall'Organisation Internationale de la Vigne et du Vin (OIV, Parigi), rispecchiando quella dei corsi universitari analoghi di altri paesi europei e comprendendo, oltre a discipline di base, discipline caratterizzanti, affini e integrative per lo più a carattere professionale e tecnico, nonché altre attività formative.
+
+Il Corso di laurea si articola in **tre anni**.
+
+Durante il **primo anno** lo studente acquisisce le conoscenze di base mediante lezioni teoriche ed esercitazioni in aula e in laboratorio.
+
+Nel **secondo anno** alle lezioni teoriche delle materie caratterizzanti si affiancano laboratori, seminari, attività di campo e viaggi di studio.
+
+Nel **terzo anno** si completa lo studio delle materie caratterizzanti ed affini, si svolge un tirocinio pratico-applicativo e si realizza un elaborato finale.
+Ammissioni e immatricolazioni al primo anno
+
+Per essere ammessi al corso di laurea è necessario superare un test TOLC gestito dal CISIA (Consorzio Interuniversitario Sistemi Integrati per l’Accesso).
+
+I bandi e le scadenze sono pubblicati alla pagina Ammissioni 2025.
+
+Sul sito del CISIA sono disponibili informazioni sui contenuti e la struttura del TOLC, materiali didattici e simulazioni per prepararsi al test: TOLC: esercitazioni e simulazioni.
+* **Livello**: Laurea di primo livello
+* **Classe del corso**: **L-35**- **Scienze Matematiche**
+* **Lingua** in cui si tiene il corso: Italiano
+* **Modalità di accesso**: accesso a numero **programmato**, con superamento di una prova di ammissione
+* **Sede**: Dipartimento di Matematica, via Sommarive 14, 38123 Povo (TN).
+
+Obiettivi formativi
+-------------------
+
+Lo scopo del corso di laurea in Matematica dell'Università di Trento è la formazione di laureati che:
+
+* abbiano una solida conoscenza delle nozioni di base e dei metodi propri dei vari settori della matematica e in particolare dell'algebra, della geometria, dell'analisi matematica e della probabilità
+* dimostrino abilità matematiche nel ragionamento, nella manipolazione e nel calcolo, e capacità di costruire dimostrazioni rigorose
+* siano capaci di comprendere e utilizzare descrizioni e modelli matematici nell'ambito della fisica, delle scienze naturali, dell'ingegneria, dell'economia e delle scienze umane; adeguate competenze informatiche
+* possiedano conoscenze utili per riflettere criticamente sulla matematica e sulla scienza, sui loro metodi e sul loro sviluppo, e sul loro rapporto con le scienze umane e la società
+* siano in grado di studiare autonomamente testi matematici, in italiano e in inglese, e di esporre il materiale studiato in forma scritta e orale, adeguata a vari tipi di pubblico, utilizzando opportuni strumenti informatici;abbiano adeguate competenze e strumenti per la comunicazione e la gestione dell'informazione
+* siano capaci di lavorare in gruppo e di inserirsi prontamente negli ambienti di lavoro;possiedano una mentalità predisposta al rapido apprendimento di nuovi concetti e metodi.
+
+Profili professionali
+---------------------
+
+I primi due anni della laurea in Matematica forniscono una preparazione di base utile sia per proseguire gli studi con una laurea magistrale sia per sviluppare attività professionale. I laureati nel corso di laurea in Matematica potranno, scegliendo opportunamente le attività opzionali del terzo anno, svolgere attività professionali:
+
+* nelle aziende e nell'industria
+* nel campo della diffusione della cultura scientifica
+* nel settore dei servizi
+* nella pubblica amministrazione.
+
+Gli ambiti di interesse sono vari, tra cui quelli **informatico**, **finanziario**, della **comunicazione**, **scientifico** e più in generale in tutti i casi in cui sia utile una mentalità flessibile, **competenze computazionali e informatiche**, e una buona dimestichezza con la **gestione**, l'**analisi e il trattamento di dati numerici**.
+
+Scegliendo opportunamente il curriculum e le attività opzionali, i laureati potranno svolgere le attività professionali di Matematici, Statistici, Analisti di sistema.
+
+
+
+
+
+
+
+
+
+In questa pagina è presentato il percorso formativo generale previsto dal Regolamento didattico.
+
+Per conoscere nel dettaglio i contenuti del corso è possibile consultare
+
+* il Manifesto degli Studi, con le attività formative attivate nei vari anni accademici
+* i Syllabi, i programmi degli insegnamenti dell'anno accademico in corso.
+Studi che si possono intraprendere dopo la laurea
+
+Al termine della laurea in Sociologia è possibile accedere a corsi di laurea magistrale, master di primo livello e altri percorsi formativi, in base ai requisiti di ammissione previsti.
+
+All'Università di Trento la laurea in Sociologia fornisce le conoscenze necessarie per iscriversi:
+
+* alla laurea magistrale Sociology and social research
+* alla laurea magistrale in Organizzazione, Società e Tecnologia
+* alla laurea magistrale Global and Local Studies
+* alla laurea magistrale in Data Science
+* alla laurea magistrale Metodologia, organizzazione e valutazione dei servizi sociali (con il recupero dei crediti di tirocinio)
+* ad alcuni Master di primo livello.
+
+
+
+
+
+
+
+
+Il corso dà gli **strumenti per leggere la realtà sociale all’interno di esperienze concrete di ricerca**, fornendo competenze di analisi, coordinamento e gestione, progettazione, comunicazione, organizzazione e valutazione.
+
+Dopo un **biennio fortemente unitario, in cui gli e le studenti riceveranno una solida formazione teorica e metodologica** in campo sociologico e una formazione di base adeguata nelle scienze umane e sociali che interagiscono più strettamente con la sociologia, è possibile scegliere uno dei **quattro****percorsi**:
+
+* società civile, ambiente e sostenibilità
+* ricerca e analisi sulla società
+* progettazione e innovazione sociale
+* cultura, media e comunicazione.
+
+Le **tabelle in questa pagina** indicano gli insegnamenti previsti dal regolamento del corso approvato per l'**anno accademico 2023/2024**. Consulta
+
+* la guida studente per conoscere l'articolazione del percorso formativo, sapere quali sono gli esami obbligatori e quali a scelta previsti ogni anno
+* il regolamento didattico, con le regole principali e gli obiettivi formativi
+* il programma dei singoli insegnamenti per conoscerne contenuti, docenti, libri e modalità d'esame.
+
+Attività in comune per tutti i percorsi
+---------------------------------------
+
+1° anno - insegnamenti obbligatori
+| Insegnamento | Obiettivi formativi | Crediti |
+| --- | --- | --- |
+| Istituzioni di sociologia | L'obiettivo del corso è quello di offrire uno sguardo complessivo dei principali temi attorno ai quali si è sviluppata la ricerca sociologica, concentrandosi in particolare sulle tendenze e i problemi della società contemporanea. Saranno affrontati aspetti relativi ai contesti dell'azione sociale, alle disuguaglianze nella società e alle forme di partecipazione civica e politica. Al termine del corso, gli/le studenti acquisiranno una conoscenza critica degli argomenti trattati e svilupperanno una maggiore capacità di orientarsi nella comprensione delle principali dinamiche sociali. | 8 |
+| Istituzioni di sociologia - esercitazioni | Le esercitazioni prevedono la discussione e presentazione di articoli scientifici di carattere sociologico. L'obiettivo di tali attività è promuovere lo sviluppo delle competenze di ricerca, analisi critica e comunicazione scientifica degli/delle studenti. L’approccio didattico attivo consentirà di approfondire temi rilevanti e di mettere in pratica le competenze acquisite durante le lezioni. | 4 |
+| Storia del pensiero sociologico | Il corso presenta i principali orientamenti delle teorie sociologiche dalle origini della disciplina fino ai più recenti sviluppi. Al termine del corso, lo/la studente sarà in grado di padroneggiare le nozioni fondamentali del pensiero sociologico classico e contemporaneo, con particolare attenzione alle loro definizioni e comparazioni.
+**Insegnamenti obbligatori**
+
+
+| Insegnamento | Crediti (CFU) |
+| --- | --- |
+| Laboratorio di pratica riflessiva  Il corso si propone di fornire agli studenti strumenti per operare in forma critico riflessiva rispetto a singoli interventi sia individuali che di gruppo sviluppando le competenze di rielaborazione dei problemi e di riformulazione continua delle ipotesi di interventi | 6 |
+| Psicologia delle età della vita  Il corso si propone di presentare i principali modelli interpretativi dello sviluppo umano utilizzando la prospettiva del ciclo di vita, dalla nascita all’età senile in modo da permettere una comprensione adeguata di fattori psicologici che influenzano le diverse età della vita e i bisogni ad esse correlati | 8 |
+| Progettazione di interventi per il territorio  Il corso intende offrire conoscenze e strumenti per l’analisi e la progettazione economica di interventi complessi di servizio sociale a livello territoriale | 6 |
+| Servizio sociale in pratica  Il corso si propone di fornire conoscenze e strumenti di lavoro per operare nei diversi ambiti di intervento del servizio sociale attraverso l’esercizio del lavoro istituzionale, associativo e in forma di libera professione e l’uso appropriato degli strumenti di lavoro e analisi e intervento in relazione al contesto di riferimento | 6 |
+| Diritto di famiglia  Il corso si propone di offrire strumenti conoscitivi ed operativi sugli istituti del diritto di famiglia e delle persone, in particolare dei minorenni e sul funzionamento degli organi giurisdizionali competenti e del rapporto tra gli stessi e il lavoro di servizio sociale | 6 |
+| Devianza e controllo sociale  Il corso si propone di favorire l’ acquisizione di una adeguata conoscenza teorica e intervento nei confronti dei fenomeni di devianza sociale, con sviluppo di strumenti di lavoro relativi alla prevenzione e alla riabilitazione dai processi di criminalizzazione, vittimizzazione e controllo sociale | 8 |
+| Secondo tirocinio  Il secondo tirocinio ha come obiettivo l’apprendimento di conoscenze e strumenti all’interno dei servizi (con la guida di un supervisore) relativi al lavoro con i gruppi sociali sia nella prospettiva della prevenzione che della promozione di interventi di aiuto e inclusione sociale incentivando lo sviluppo di autonomia di giudizio, capacità di apprendimento e rielaborazione e consapevolezza di ruolo . Il tirocinio viene normato da apposito Regolamento | 10 |
+| Materie a scelta  Le materie a scelta hanno lo scopo di completare la formazione con attività formative a scelta che vengano incontro agli interessi degli studenti (insegnamenti o altre attività formative quali seminari di credito, laboratori, eccetera) | 12 |
+| Prova finale  La prova finale della laurea prevede la stesura di un elaborato su un tema approvato dal Supervisore. Le modalità di svolgimento della prova finale e di conseguimento del titolo sono disciplinate in un apposito Regolamento | 3 |
+|
+
+
+
+
+
+
+
+
+
+Per iscriversi al corso è necessario avere un diploma di scuola secondaria o di altro titolo di studio conseguito all'estero riconosciuto idoneo.
+
+Il corso è a numero programmato: i posti sono assegnati in base a una selezione destinata a cittadini e cittadine italiani, cittadini e cittadine dei Paesi dell’Unione Europea, cittadini e cittadine non europei residenti al di fuori dell’Italia.
+
+
+
+
+Iscrizione anno accademico 2025/2026
+------------------------------------
